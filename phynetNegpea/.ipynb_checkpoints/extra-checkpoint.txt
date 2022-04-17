@@ -1,0 +1,7 @@
+pat_10,part1
+pat_10,part2
+pat_10,part3
+pat_10,part4
+pat_10,part5
+pat_10,part6
+pat_10,part7
