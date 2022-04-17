@@ -1,3 +1,0 @@
-pat_10,part5
-pat_10,part6
-pat_10,part7
